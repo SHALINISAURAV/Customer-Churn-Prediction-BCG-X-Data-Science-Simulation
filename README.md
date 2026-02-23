@@ -56,9 +56,11 @@ Both datasets were merged to create a unified analytical dataset.
 
 Model Used: Random Forest Classifier
 
-Why Random Forest? - Handles non-linearity - Captures feature
-interactions - Reduces overfitting through ensemble learning - Provides
-feature importance insights
+Why Random Forest?
+- Handles non-linearity
+- Captures feature interactions
+- Reduces overfitting through ensemble learning
+- Provides feature importance insights
 
 ------------------------------------------------------------------------
 
@@ -105,9 +107,11 @@ to understand business trade-offs.
 
 ## 📎 Project Structure
 
-BCG-Customer-Churn-Prediction/ │ ├── notebooks/ │ └──
-churn_analysis.ipynb ├── images/ │ └── confusion_matrix.png ├──
-README.md └── requirements.txt
+BCG-Customer-Churn-Prediction/ │
+├── notebooks/ │ └──
+churn_analysis.ipynb 
+├── images/ │ └── confusion_matrix.png 
+├── README.md └── requirements.txt
 
 ------------------------------------------------------------------------
 
